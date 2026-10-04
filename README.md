@@ -62,7 +62,7 @@ task-api/
 └── README.md
 ```
 
-> The exact file structure may vary depending on the current implementation.
+
 
 ---
 
